@@ -1158,7 +1158,7 @@ body.nav-active { overflow: hidden; }
   color: var(--gold-crayola);
 }
 
-.form-right .headline-1 { margin-block-end: 40px; }
+.form-right .headline-1 { margin-block-end: 20px; }
 
 .form-right .contact-label { margin-block-end: 5px; }
 
